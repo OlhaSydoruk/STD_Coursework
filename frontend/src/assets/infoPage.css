@@ -1,0 +1,38 @@
+.context{
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+    border: black 2px dashed;
+    border-radius: 2%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    border-collapse: collapse;
+    text-align: left;
+    float: left;
+    width: 45%;
+}
+h1{
+ text-align: center;
+font-size: 5vh;
+
+}
+h2 {
+    font-size: 4vh;
+}
+ul {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.mainSVG {
+    width: 80%;
+    height: 80%;
+    visibility: visible;
+}
+.context-christmas-tree{
+    background-color:#151522;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
