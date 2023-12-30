@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\sid19\Documents\Olya\Study\5_Semestr\TRPZ\course_work\FX-Shell-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\Users\sid19\Documents\Olya\Study\5_Semestr\TRPZ\course_work\shell.exe</outfile>
+  <icon>C:\Users\sid19\Documents\Olya\Study\5_Semestr\TRPZ\course_work\file_manager.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path "C:\Users\sid19\.openjfx\cache\javafx-sdk-17.0.9\lib"</opt>
+    <opt>--add-modules javafx.controls,javafx.fxml</opt>
+  </jre>
+  <classPath>
+    <mainClass>"com.example.fxshell.Main"</mainClass>
+  </classPath>
+</launch4jConfig>
